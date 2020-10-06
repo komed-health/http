@@ -45,7 +45,9 @@
     "dist/",
     "ios/",
     "android/",
-    "CapacitorCommunityHttp.podspec"
+    "CapacitorCommunityHttp.podspec",
+    "tsconfig.json",
+    "src/"
   ],
   "keywords": [
     "capacitor",
